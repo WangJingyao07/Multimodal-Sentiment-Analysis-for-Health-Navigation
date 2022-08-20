@@ -1,0 +1,4 @@
+speechbrain
+transformers
+pydub
+librosa
