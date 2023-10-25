@@ -1,5 +1,7 @@
 # 基于多模态情感计算的健康导航
 
+Official Code of "AMSA: Adaptive Multimodal Learning for Sentiment Analysis"
+
 (/Multimodal-sentiment-analysis/image-speech-audio)
 
 本项目代码是课题：**基于多模态情感分析的健康导航研究** 的本地运行代码项目工程的**一部分**
