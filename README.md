@@ -1,12 +1,12 @@
 # 基于多模态情感计算的健康导航
 
-Official Code of "AMSA: Adaptive Multimodal Learning for Sentiment Analysis"
-
 (/Multimodal-sentiment-analysis/image-speech-audio)
 
 本项目代码是课题：**基于多模态情感分析的健康导航研究** 的本地运行代码项目工程的**一部分**
 
 该代码仅供学术使用，相关软件已申请著作权，涉及到敏感信息完整版本将在后续时间节点（22年底）进行发布（缺失main.py与专家系统的核心代码文件）。
+
+(情感计算部分涉及：Official Code of "AMSA: Adaptive Multimodal Learning for Sentiment Analysis")
 
 
 机器学习领域日益多元化，涵盖心理健康等新领域。 **最近变得相关的话题，特别是在抑郁、焦虑或心理和精神科帮助的问题上**。 该项目旨在达到两个项目相遇的地步，拥有一个可以接收视频作为输入并可以对其中表示的情绪进行分类的智能模型，其想法是**在未来它可能被用作一种工具可以根据更多信息做出诊断的心理健康专家**。 这个模型也在寻找的是考虑到视频中出现的病人或人的所有方面，分析他们的声音、他们的演讲内容和他们的面部表情； 这与推理在执行时具有最多可用属性的想法有关。
